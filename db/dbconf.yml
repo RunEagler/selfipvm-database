@@ -1,7 +1,7 @@
 
 development:
     driver: postgres
-    open: user=postgres dbname=postgres host=192.168.99.100 sslmode=disable
+    open: user=taileagler dbname=selfipvm sslmode=disable
     
 #production:
 #   driver: postgres

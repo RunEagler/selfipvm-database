@@ -14,7 +14,6 @@ $ go get bitbucket.org/liamstask/goose/cmd/goose
 ### How to migrate
 
 0. current directory
-
 ```
 cd /path/to/selfipvm-database
 ```
